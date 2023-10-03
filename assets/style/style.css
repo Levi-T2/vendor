@@ -1,0 +1,14 @@
+/* BASIC STYLES HERE */
+
+.itemCards {
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5%;
+    border: 0.4rem double black;
+    background-color: wheat;
+    font-weight: bold;
+}
+
+.img-bd {
+    border-radius: 3%;
+}
